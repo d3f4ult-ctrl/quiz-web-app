@@ -4,7 +4,6 @@ Simple, mobile-friendly quiz web app built with Vanilla JavaScript, CSS, and HTM
 
 <img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/3a98d1e4-7216-489d-adbe-465a56c09473" />
 
-<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/b505834d-d43d-4d46-8139-cae5aa0780c9" />
 
 <img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/7297d4cf-45f2-4ff8-82aa-8ef614439d2b" />
 
@@ -21,6 +20,10 @@ Simple, mobile-friendly quiz web app built with Vanilla JavaScript, CSS, and HTM
 - HTML5 for structure.
 - CSS3 for styling + animations.
 - Vanilla JavaScript build for quiz logic.
+
+## Live Demo
+[Demo]: (https://d3f4ult-ctrl.github.io/quiz-web-app/)
+
 
 ## How to run
 1. Download/clone this repo.
