@@ -22,7 +22,7 @@ Simple, mobile-friendly quiz web app built with Vanilla JavaScript, CSS, and HTM
 - Vanilla JavaScript build for quiz logic.
 
 ## Live Demo
-[Demo]: (https://d3f4ult-ctrl.github.io/quiz-web-app/)
+Demo: (https://d3f4ult-ctrl.github.io/quiz-web-app/)
 
 
 ## How to run
