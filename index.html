@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quizzy</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <div class="quiz-container">
+        <div id="welcome">
+            <h1>Quizzy</h1>
+            <p>Test your knowledge with these questions.</p>
+            <ul class="rules">
+                <li>1 point for each correct answer</li>
+                <li>Choose one option per question</li>
+                <li>Good luck!</li>
+            </ul>
+            <button class="btn" id="start-btn">Start</button>
+        </div>
+        <div id="quiz" class="hidden">
+            <h1>Quizzy</h1>
+            <div class="progress" id="progress">Question 1 of 10</div>
+            <div class="question" id="question"></div>
+            <div class="options" id="options"></div>
+            <button class="btn" id="next-btn" disabled>Next</button>
+        </div>
+        <div id="results" class="results hidden">
+            <h1>Quiz Complete</h1>
+            <div class="score" id="score"></div>
+            <p id="feedback"></p>
+            <button class="btn" onclick="restartQuiz()">Restart</button>
+        </div>
+    </div>
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
